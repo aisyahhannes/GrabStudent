@@ -72,6 +72,9 @@ two
 </video>
 three
 [Watch the video](tutorial.mp4)
+four
+<iframe width="560" height="315" src="tutorial.mp4" frameborder="0" allowfullscreen></iframe>
+
 
 
 ---
