@@ -63,10 +63,16 @@ A ride-hailing web application designed for students to book and manage rides ea
 ## 🎥 Video Tutorial
 - If you prefer a step-by-step walkthrough, watch the tutorial video:
 
-<!-- ![Video](tutorial.mp4) -->
-<video width="320" height="240" controls>
+one
+![Video](tutorial.mp4)
+two
+<video width="600" controls>
   <source src="tutorial.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
+three
+[Watch the video](tutorial.mp4)
+
 
 ---
 
